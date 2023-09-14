@@ -25,7 +25,7 @@ public class Tours {
     private long id;
     private String thumbnail;
     private String name;
-    private Integer start;
+    private Integer star;
     @Lob
     private String description;
     private String address;

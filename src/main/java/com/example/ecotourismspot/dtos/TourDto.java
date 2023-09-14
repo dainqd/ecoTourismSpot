@@ -14,7 +14,7 @@ public class TourDto {
     private long id;
     private String thumbnail;
     private String name;
-    private Integer start;
+    private Integer star;
     private String address;
     private String description;
     private Float price;
